@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alvaro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Alvaro-pic" height="150" style="border-radius:50px;" src="https://instagram.ffor11-2.fna.fbcdn.net/v/t51.2885-19/75299405_2166454826996215_965986596396466176_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor11-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=a8pCBa9oWBkAX8A7Gd8&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-4DQ46dIALP26gYbjwKkwTiMs-mCk7WVAe8UXnqYbh4w&oe=62ED9D27&_nc_sid=8fd12b">
+  <img align="right" alt="Alvaro-pic" height="150" style="border-radius:50px;" src="https://a11v1r15.carrd.co/assets/images/bg.jpg">
 </div>
   
   ##
